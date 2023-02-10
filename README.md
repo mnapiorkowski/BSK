@@ -1,2 +1,2 @@
-# BSK
-Solutions to tasks from Security of Computer Systems course (web, re, pwn)
+# BSK* - web apps, reverse engineering, binary exploitation
+Security of Computer Systems - 5. semester @ MIMUW
